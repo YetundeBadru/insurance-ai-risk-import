@@ -1,0 +1,12 @@
+{
+  "field_accuracy": 0.5333,
+  "review_routing_accuracy": 0.6897,
+  "agent_pass_rate": 0.9231,
+  "tenant_leaks": 0,
+  "cases": 42,
+  "risk_invalid_row_recall": 1.0,
+  "risk_reason_accuracy": 1.0,
+  "risk_false_reject_rate": 0.0408,
+  "risk_mapping_accuracy": 0.8,
+  "risk_cases": 40
+}
